@@ -39,12 +39,12 @@ This repository contains a project for predicting hotel prices using machine lea
 
 2. Train the model:
      ```bash
-     python train_model.py
+     run the modeelling.pynb file to create.pkl files
      ```
 
 3. Make predictions:
      ```bash
-     python predict.py --input sample_input.csv
+     run app.py and check predictions on localhost
      ```
 
 ## Project Structure
